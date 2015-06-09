@@ -1,0 +1,14 @@
+*{margin: auto;}
+
+body{width: 100%;min-height: 200px; height: auto;}
+.mainbody{width: 90%;height:900px;border: 1px solid #ccc;}
+
+.shuru{width: 600px; height: 50px; margin: 20px;margin-left: 270px;}
+.one_word{width: 1000px;height: 50px;border-bottom: 1px solid #eee;}
+.liuyan_btn{width: 70px;height:30px;cursor: pointer;margin-bottom: 10px;}
+.onecontent{width: 600px;height: 40px;float: left;text-align: left;line-height: 40px;font-size: 14px;font-family: "微软雅黑";}
+.word_id{float: left;width: 50px;display: none;}
+.dele_btn{float: right;width: 70px;height: 30px; font-family: "微软雅黑";font-size: 12px;font-weight: bold;line-height: 40px;cursor: pointer;}
+.dele_btn:hover{color: #f00;}
+.create_time{font-size: 14px;color: #999; line-height: 40px;width:200px;float: left;}
+.top{width: 100%;font-size: 16px; font-family: "微软雅黑";font-weight: bold;text-align: center;margin: 20px;color: #333;}
